@@ -1,4 +1,4 @@
-#### CFPB Open Source Project Template Instructions
+#### OWP Open Source Project Template Instructions
 
 1. Create a new project.
 2. [Copy these files into the new project](#installation)
@@ -17,7 +17,7 @@
 To install all of the template files, run the following script from the root of your project's directory:
 
 ```
-bash -c "$(curl -s https://raw.githubusercontent.com/NOAA-OWP/owp-open-source-project-template/)"
+bash -c "$(curl -s https://raw.githubusercontent.com/ZacharyWills/owp-open-source-project-template/open_source_template.sh)"
 ```
 
 ----
