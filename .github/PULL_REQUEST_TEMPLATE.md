@@ -32,7 +32,7 @@
 - [ ] PR has an informative and human-readable title
 - [ ] Changes are limited to a single goal (no scope creep)
 - [ ] Code can be automatically merged (no conflicts)
-- [ ] Code follows the standards laid out in the [development playbook](https://github.com/cfpb/development)
+- [ ] Code follows project standards (link if applicable)
 - [ ] Passes all existing automated tests
 - [ ] Any _change_ in functionality is tested
 - [ ] New functions are documented (with a description, list of inputs, and expected output)
@@ -43,15 +43,11 @@
 
 ## Testing checklist
 
-### Browsers
+### Target Environment support
 
-- [ ] Chrome
-- [ ] Firefox
-- [ ] Safari
-- [ ] Internet Explorer 8, 9, 10, and 11
-- [ ] Edge
-- [ ] iOS Safari
-- [ ] Chrome for Android
+- [ ] Windows
+- [ ] Linux
+- [ ] Browser
 
 ### Accessibility
 
