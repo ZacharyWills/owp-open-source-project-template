@@ -39,7 +39,7 @@ Other things to include:
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
 
-![](https://raw.githubusercontent.com/ZacharyWills/open-source-project-template/master/Screenshot.png)
+![](https://raw.githubusercontent.com/ZacharyWills/open-source-project-template/master/screenshot.png)
 
 
 ## Dependencies
