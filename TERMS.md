@@ -1,49 +1,16 @@
-As a work of the United States Government, this package (excluding any
-exceptions listed below) is in the public domain within the United States.
-Additionally, we waive copyright and related rights in the work worldwide
-through the [CC0 1.0 Universal public domain dedication][CC0].
+## Disclaimer
 
-Software source code previously released under an open source license and then
-modified by CFPB staff or its contractors is considered a "joint work"
-(see 17 USC § 101); it is partially copyrighted, partially public domain,
-and as a whole is protected by the copyrights of the non-government authors and
-must be released according to the terms of the original open-source license.
-Segments written by CFPB staff, and by contractors who are developing software
-on behalf of CFPB are also in the public domain, and copyright and related
-rights for that work are waived through the CC0 1.0 Universal dedication.
+This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is provided on an 'as is' basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
 
-For further details, please see the CFPB [Source Code Policy][policy].
-
-
-## CC0 1.0 Universal Summary
-
-This is a human-readable summary of the [Legal Code (read the full text)][CC0].
-
-### No Copyright
-
-The person who associated a work with this deed has dedicated the work to
-the public domain by waiving all of his or her rights to the work worldwide
-under copyright law, including all related and neighboring rights, to the
-extent allowed by law.
-
-You can copy, modify, distribute and perform the work, even for commercial 
-purposes, all without asking permission. See Other Information below.
+[NOAA GitHub Policy](https://github.com/NOAAGov/Information)
 
 ### Other Information
-
-In no way are the patent or trademark rights of any person affected by CC0,
-nor are the rights that other persons may have in the work or in how the
-work is used, such as publicity or privacy rights.
 
 Unless expressly stated otherwise, the person who associated a work with
 this deed makes no warranties about the work, and disclaims liability for
 all uses of the work, to the fullest extent permitted by applicable law.
 When using or citing the work, you should not imply endorsement by the
 author or the affirmer.
-
-[policy]: https://github.com/cfpb/source-code-policy/
-[CC0]: http://creativecommons.org/publicdomain/zero/1.0/legalcode
-
 
 ## Exceptions
 
